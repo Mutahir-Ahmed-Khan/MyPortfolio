@@ -89,7 +89,7 @@ export const ContactSection = () => {
                 <a href="https://www.instagram.com/secretlifeofmutahir?igsh=MW91dXgxNmdjNDJicA%3D%3D&utm_source=qr" target="_blank">
                   <Instagram />
                 </a>
-                <a href="#" target="_blank">
+                <a href="https://www.facebook.com/share/189BjW27va/?mibextid=wwXIfr" target="_blank">
                   <Facebook />
                 </a>
               </div>
